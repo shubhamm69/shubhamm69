@@ -1,7 +1,7 @@
-![MasterHead](https://media3.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
+<a href="https://github.com/shubhamm69" target="blank"><img src="https://media3.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif"></a>
 <h1 align="center">Hi there👋, I'm Shubham</h1>
 <h3 align="center">UI/UX and Web-Dev Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a9/cb/3d/a9cb3d62f00833ca6f2b034f5c3669b6.gif">
+<a href="https://github.com/shubhamm69" target="blank"><img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a9/cb/3d/a9cb3d62f00833ca6f2b034f5c3669b6.gif"></a>
 
 - ✨ Undergrad student at VIT Chennai
 
