@@ -1,4 +1,4 @@
-[![MasterHead](https://media3.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)]
+![MasterHead](https://media3.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 <h1 align="center">Hi there👋, I'm Shubham</h1>
 <h3 align="center">Frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a9/cb/3d/a9cb3d62f00833ca6f2b034f5c3669b6.gif">
