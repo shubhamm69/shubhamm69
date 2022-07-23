@@ -1,20 +1,24 @@
 ![MasterHead](https://media3.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 <h1 align="center">Hi there👋, I'm Shubham</h1>
-<h3 align="center">Frontend developer from India</h3>
+<h3 align="center">UI/UX and Web-Dev Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a9/cb/3d/a9cb3d62f00833ca6f2b034f5c3669b6.gif">
+
+- ✨ Undergrad student at VIT Chennai
 
 - 🌱 I’m currently learning **React JS**
 
 - 📫 How to reach me **gajjodaddy@gmail.com**
 
 - ⚡ Fun fact **I am not a nerd**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/gajjodaddy69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gajjodaddy69" height="30" width="40" /></a>
 <a href="https://twitter.com/gajjodaddy69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gajjodaddy69" height="30" width="40" /></a>
-<a href="https://fb.com/shubham2488a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shubham2488a" height="30" width="40" /></a>
 <a href="https://instagram.com/shubhhhhhhh__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubhhhhhhh__" height="30" width="40" /></a>
+<a href="https://fb.com/shubham2488a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shubham2488a" height="30" width="40" /></a>
+<a href="https://codepen.io/gajjodaddy69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gajjodaddy69" height="30" width="40" /></a>
+
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
