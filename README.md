@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **gajjodaddy@gmail.com**
 
-- ⚡ Fun fact **I am not a nerd**
+- ⚡ Fun fact **not a nerd**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gajjodaddy69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gajjodaddy69" height="30" width="40" /></a>
