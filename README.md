@@ -5,9 +5,9 @@
 
 - ✨ Undergrad student at VIT Chennai
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Flutter**
 
-- 📫 How to reach me **gajjodaddy@gmail.com**
+- 📫 How to reach me **shubham2488a@gmail.com**
 
 - ⚡ Fun fact **not a nerd**
 <h3 align="left">Connect with me:</h3>
