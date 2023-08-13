@@ -7,7 +7,7 @@
 <a href="https://www.google.com/logos/2010/pacman10-i.html" target="_blank"><img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a9/cb/3d/a9cb3d62f00833ca6f2b034f5c3669b6.gif"></a>
 
 - ✨ Undergrad student at VIT Chennai
-- 🌱 I’m currently learning **Next.js 13.4**
+- 🌱 I’m currently learning **T3 Stack**
 - 📫 How to reach me: **outoftheboxshubham@gmail.com**
 - ⚡ Fun fact: **not a nerd**
 
