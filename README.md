@@ -26,10 +26,10 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="./icons/CPP.svg" alt="C++" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="./icons/CS.svg" alt="C#" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="./icons/Java-Dark.svg" alt="Java" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="./icons/Html.svg" alt="HTML" width="40" height="40"/> </a>  
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="./icons/HTML.svg" alt="HTML" width="40" height="40"/> </a>  
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="./icons/CSS.svg" alt="CSS" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="./icons/Javascript.svg" alt="JavaScript" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="./icons/Typescript.svg" alt="TypeScript" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="./icons/JavaScript.svg" alt="JavaScript" width="40" height="40"/> </a> 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="./icons/TypeScript.svg" alt="TypeScript" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="./icons/React-Dark.svg" alt="ReactJS" width="40" height="40"/> </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="./icons/NextJS-Dark.svg" alt="NextJS" width="40" height="40"/> </a>
 <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="./icons/Svelte.svg" alt="Svelte" width="40" height="40"/> </a> 
