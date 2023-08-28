@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shubham-singh-19" target="blank"><img src="./icons/LinkedIn.svg" alt="shubham-singh19" align="center" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/shubham-singh19/" target="blank"><img src="./icons/LinkedIn.svg" alt="shubham-singh19" align="center" height="40" width="40" /></a>
 <a href="https://twitter.com/gajjodaddy69" target="blank"><img align="center" src="./icons/Twitter.svg" alt="gajjodaddy69" height="40" width="40" /></a>
 <a href="https://instagram.com/shubhhhhhhh__" target="blank"><img align="center" src="./icons/Instagram.svg" alt="shubhhhhhhh__" height="40" width="40" /></a>
 <a href="https://discord.gg/BHKf6B5S2v" target="blank"><img align="center" src="./icons/Discord.svg" alt="BHKf6B5S2v" height="40" width="40" /></a>
